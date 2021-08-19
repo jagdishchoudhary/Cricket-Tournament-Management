@@ -1,9 +1,9 @@
 <?php 
 
-$dns="mysql:host=sql307.epizy.com;dbname=epiz_29301892_cricket";
-$username="epiz_29301892";
-$password="itoGnKNCI3w";
-$db= new PDO($dns, $username, $password);
+//connect your database
+
+//connection done !
+
 
 $Home=0;
 $Matches=0;
