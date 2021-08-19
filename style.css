@@ -1,0 +1,60 @@
+body{
+    width: 1300px;
+    margin: 0 auto;
+    text-align: center;
+    background-color:burlywood;
+    border-style: solid;
+    border-color:dimgrey;
+}
+
+
+
+
+html{scroll-behavior: smooth !important;}
+
+header{
+   
+    border-radius: 5px;
+    width:1300px;
+    height: 400px;
+    background-color:gray;
+    position: fixed;
+    top=0px; }
+
+nav li{
+    display: inline;
+    padding: 10px;
+    margin-left:65px;
+    text-transform: uppercase;
+    background-color:black;
+    font-size: 38px;
+    border-radius: 15px;
+    float: left;}
+
+nav{ 
+    background-color:azue;
+    width: 1260px;
+    margin-top: 0px;
+    position: fixed;
+    top:380px;
+    float:left;
+    
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+
+img{
+    float: left;}
+p{
+    
+    font-size: 30px;
+    color:black;
+}
+div{
+    background-color: azure;
+    
+}
+
+
